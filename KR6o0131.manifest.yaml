@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6o0131/v1
+canonical_location: https://kanripo.org/bkk/KR6o0131/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 廣大發願頌
+  identifiers:
+    alt_id:
+    - T32n1676
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1676.xml
+    old_id: T32n1676
+  edition:
+    short: bkk
+editions:
+- short: 明
+  label: 明
+  source_xml_id: wit1
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6o0131_000.yaml, hash: 'sha256:a983c694ed83716fddfcc0414acfb08a2e5e4a883aebbcd6b52151b481f0d2ed'}
+  - {seq: 1, filename: KR6o0131_001.yaml, hash: 'sha256:beeae5272c92c24847989a9060c4bf1969e4117116603d3cc35e2584229c6b28'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6o0131_001.markers.yaml, hash: 'sha256:97edf4290f6d44f870c5145099b18571430952cf050f454a654c3088ce09702d'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6o0131_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 564
+  label: 廣大發願頌
+  type: juan
+  level: 1
+hash: sha256:79a7f3ff6aa239c335a909dedd1d7aae5899b0240b0a5f15d7c174a85b3b7b52
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

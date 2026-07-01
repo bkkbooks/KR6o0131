@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6o0131/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 廣大發願頌
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T32/T32n1676.xml
+    old_id: T32n1676
+hash: sha256:a983c694ed83716fddfcc0414acfb08a2e5e4a883aebbcd6b52151b481f0d2ed
