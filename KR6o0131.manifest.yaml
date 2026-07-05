@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0131_000.yaml, hash: 'sha256:a983c694ed83716fddfcc0414acfb08a2e5e4a883aebbcd6b52151b481f0d2ed'}
-  - {seq: 1, filename: KR6o0131_001.yaml, hash: 'sha256:beeae5272c92c24847989a9060c4bf1969e4117116603d3cc35e2584229c6b28'}
+  - {seq: 1, filename: KR6o0131_001.yaml, hash: 'sha256:77cab37762320702628687cd059e21a6caddbd15f4cd1c776482eec98ffc663f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6o0131_001.markers.yaml, hash: 'sha256:97edf4290f6d44f870c5145099b18571430952cf050f454a654c3088ce09702d'}
+  - {seq: 0, role: markers, filename: assets/KR6o0131_000.markers.yaml, hash: 'sha256:9ab0df0b2abe1c5ea7e19c109e0aef73b7d666d3103fa044de4f71680a6ab07b'}
+  - {seq: 1, role: markers, filename: assets/KR6o0131_001.markers.yaml, hash: 'sha256:f65b538364c55e80de6bc03f5c1b1cc884495eed57e7e61f1686954df24b869e'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 廣大發願頌
   type: juan
   level: 1
-hash: sha256:79a7f3ff6aa239c335a909dedd1d7aae5899b0240b0a5f15d7c174a85b3b7b52
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:1861ebcfae6341c98c9d60bcb531b1501af9b62f46e1d062f76b21a5e9945d20
