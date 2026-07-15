@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6o0131/v1
 canonical_location: https://kanripo.org/bkk/KR6o0131/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 廣大發願頌
   identifiers:
@@ -22,10 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6o0131_000.yaml, hash: 'sha256:a983c694ed83716fddfcc0414acfb08a2e5e4a883aebbcd6b52151b481f0d2ed'}
-  - {seq: 1, filename: KR6o0131_001.yaml, hash: 'sha256:77cab37762320702628687cd059e21a6caddbd15f4cd1c776482eec98ffc663f'}
+  - {seq: 1, filename: KR6o0131_001.yaml, hash: 'sha256:6fda0d83398cfb3a000aa5563be3858335f22d27bff3a3560da4f37df4a29154'}
   markers:
   - {seq: 0, role: markers, filename: assets/KR6o0131_000.markers.yaml, hash: 'sha256:9ab0df0b2abe1c5ea7e19c109e0aef73b7d666d3103fa044de4f71680a6ab07b'}
-  - {seq: 1, role: markers, filename: assets/KR6o0131_001.markers.yaml, hash: 'sha256:f65b538364c55e80de6bc03f5c1b1cc884495eed57e7e61f1686954df24b869e'}
+  - {seq: 1, role: markers, filename: assets/KR6o0131_001.markers.yaml, hash: 'sha256:bcfcb5334d7659263591edce4603ccdcee0e3fd9d105559df87989742fb5b1af'}
 table_of_contents:
 - ref:
     seq: 1
@@ -37,4 +37,7 @@ table_of_contents:
   label: 廣大發願頌
   type: juan
   level: 1
-hash: sha256:1861ebcfae6341c98c9d60bcb531b1501af9b62f46e1d062f76b21a5e9945d20
+hash: sha256:6cdca5ed99b25d512a854f798e6c0d6913e6d98a8130491a320f095b54e2dd34
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
